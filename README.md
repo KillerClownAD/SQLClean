@@ -3,7 +3,7 @@
 
 [![.github/workflows/tests.yml](https://github.com/sqlmapproject/sqlmap/actions/workflows/tests.yml/badge.svg)](https://github.com/sqlmapproject/sqlmap/actions/workflows/tests.yml) [![Python 2.6|2.7|3.x](https://img.shields.io/badge/python-2.6|2.7|3.x-yellow.svg)](https://www.python.org/) [![License](https://img.shields.io/badge/license-GPLv2-red.svg)](https://raw.githubusercontent.com/sqlmapproject/sqlmap/master/LICENSE) [![Twitter](https://img.shields.io/badge/twitter-@sqlmap-blue.svg)](https://twitter.com/sqlmap)
 
-SQLMap is an open-source penetration testing tool designed to automate the detection and exploitation of SQL injection vulnerabilities, enabling the takeover of database servers. It features a robust detection engine, numerous specialized capabilities tailored for penetration testers, and an extensive array of switches. These switches facilitate database fingerprinting, data extraction from databases, access to the underlying file system, and execution of commands on the operating system via out-of-band connections.
+SQLClean is an open-source penetration testing tool designed to automate the detection and exploitation of SQL injection vulnerabilities, enabling the takeover of database servers. It features a robust detection engine, numerous specialized capabilities tailored for penetration testers, and an extensive array of switches. These switches facilitate database fingerprinting, data extraction from databases, access to the underlying file system, and execution of commands on the operating system via out-of-band connections.
 
 **Demo Project Made from https://github.com/topics/sql-injection** 
 
